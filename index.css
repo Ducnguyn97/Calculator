@@ -1,0 +1,11 @@
+table{
+    width:  70%;
+    align-items:end;
+}
+td,tr{
+    width: 30px;
+    height: 20px;
+}
+input{
+    width:  50%;
+}
