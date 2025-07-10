@@ -4,6 +4,7 @@
     border-radius: 15px;
     max-width: 500px;
     overflow-x: hidden;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
 }
 #display{
     width: 100%;
@@ -57,5 +58,6 @@ button:active{
  }
  .operator-orange:active{
      background-color: hsl(30, 100%, 75%);
+
  }
 
